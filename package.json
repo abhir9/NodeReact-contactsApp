@@ -1,0 +1,9 @@
+{
+  "name": "Contacts",
+  "description": "React Node.js contact app",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.10.6"
+  }
+}
